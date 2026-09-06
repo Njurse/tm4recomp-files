@@ -1,2 +1,2 @@
-# tm4recomp-files
-Temporary repository for TM4
+# TM4-Style Machine Code Generated to C
+(For Twisted Metal 4, see https://github.com/Njurse/TwistedMetal4Decomp/)
